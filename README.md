@@ -1,0 +1,9 @@
+- 👋 Olá, Eu sou  @AlvesLustosa95
+- 👀 Estou interessada em Programação para desenvolver projetos ...
+- 🌱 Estou cursando Ads ...
+- 💞️ Eu gosto de aprender coisas novas ...
+
+<!---
+AlvesLustosa95/AlvesLustosa95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
